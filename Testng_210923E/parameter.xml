@@ -1,0 +1,15 @@
+<suit name="">
+  <test name="">
+    <parameter name="browser" value="chrome">
+    <parameter name="url" value="google.com">
+    <classes>
+    <class name="com.bit.test.smokeTest">
+    
+    </class>
+    
+    </classes>
+    
+    </parameter>
+    </parameter>
+  </test>
+</suit>

@@ -1,0 +1,30 @@
+<suit name="" parallel="test">
+  <test name="">
+  
+    
+    <classes>
+    
+    <class name="com.bit.test.regressionTest">
+    
+    </class>
+    
+    </classes>
+    
+    
+  </test>
+  
+   <test name="dhd">
+  
+    
+    <classes>
+    
+    <class name="com.bit.test.smokeTest">
+    
+    </class>
+    
+    </classes>
+    
+    
+  </test>
+  
+</suit>

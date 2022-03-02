@@ -1,0 +1,34 @@
+<suite name="regression"> 
+<listners>
+<listner class-name="cocm.bit,test.BaseListner">
+
+
+</listner>
+</listners>
+<test name ="uitest">
+
+
+
+<classes>
+<class name="com.bit.test.smokeTest" >
+<methods>
+<method>
+<include name="test1">
+
+</include></method></methods></class>
+<class name="com.bit.test.smokeTest" ></class>class</classes></test>
+
+ 
+<test name ="groupTest">
+<gropus>
+<run> <include name="ui">
+</include></run></gropus>
+<packages>
+<package name="com.bit.test">
+
+</package>
+</packages>
+</test>
+
+
+</suite>
